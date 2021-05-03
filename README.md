@@ -11,7 +11,7 @@
  이미지, 비디오, 대화, 오디오와 같이 원본 표현에서는 의미를 찾기어려울 때, 특징을 잘 추출해낸다. 
  다만, 데이터와 자원이 많이 필요하기에 고객 데이터와 같이 여러 가지 데이터가 섞인 작은 데이터셋에는 적용하기 힘들다.
  
- Chap1. 소개(Introduction)
+ Chap1. [소개(Introduction)](./01_introduction(OT_and_Classifying_Iris).ipynb)
  
  Chap2. 지도 학습(Supervised Learning)
  
