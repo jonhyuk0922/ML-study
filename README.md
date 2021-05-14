@@ -13,7 +13,7 @@
  
  Chap1. [소개(Introduction)](./01_introduction(OT_and_Classifying_Iris).ipynb)
  
- Chap2. 지도 학습(Supervised Learning)
+ Chap2. [지도 학습(Supervised Learning)](./02_supervised_learning.ipynb)
  
  Chap3. 비지도 학습(Unsupervised Learning)과 데이터 전처리(Data Preprocessing)
  
