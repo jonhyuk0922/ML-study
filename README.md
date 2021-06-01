@@ -17,3 +17,16 @@
  
  Chap3. 비지도 학습(Unsupervised Learning)과 데이터 전처리(Data Preprocessing)
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ #Codeit ML/DL study
+ 
+ ### ML (06.01 ~)
+ 
+ 01. [선형 회귀 (Linear Regression)](.//%5Bcodeit%5D_Linear_Regression.ipynb)
